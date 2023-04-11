@@ -1,0 +1,2 @@
+Return the amount of unique numbers in the testcase list, aswell as modifying the in-place list "nums" 
+so that it contains all the unique numbers in order. 

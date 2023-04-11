@@ -1,0 +1,1 @@
+Check if the number X is a palindrome. Negative numbers are automatically not a palindrome
