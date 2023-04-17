@@ -1,0 +1,4 @@
+Input a list and a target sum. Two and only two of the numbers shall sum to the target. Return the indices of the correct numbers
+
+Input: nums = [2,7,11,15], target = 9
+Output: [0,1]
