@@ -6,7 +6,6 @@ class Solution:
         for i in range(k):
             new.remove(val)
 
-        
         print(new)
         nums[:] = new
         print(nums)
