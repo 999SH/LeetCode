@@ -1,4 +1,6 @@
 .DS*
 .idea*
 *.pyc
-Roman to integer/.vscode/launch.json
+*.vscode
+*/target*
+*.lock
